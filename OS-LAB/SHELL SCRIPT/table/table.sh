@@ -7,4 +7,4 @@ t=`expr $x \* $i`
 echo $t
 i=`expr $i + 1`
 done
-© 2022 GitHub, Inc.
+
